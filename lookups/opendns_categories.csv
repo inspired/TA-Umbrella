@@ -1,0 +1,109 @@
+categoryId,name,description,blockGroup,bitfieldPosition,enabled,inheritable,opaque,readOnly,decideMinPercent,decideMinVotes,websiteRequired,createdAt,modifiedAt,categoryTypeId
+72,Academic Fraud,"Sites that promote educational fraud, including but not limited to plagiarism and cheating.",,47,y,n,n,n,70,5,y,1261077546,1261077493,1
+58,Adult Themes,Sites that are adult in nature and are not defined in other rating categories. Note: This category should only be turned on if you want to be very restrictive on your network.,adult,40,y,n,n,n,60,3,y,1204910084,1204910084,1
+1,Adware,Sites that distribute applications which display advertisements without user's knowledge or choice. Does NOT include sites which serve advertising.,school,0,y,n,n,y,90,5,y,1200348284,1205361508,1
+2,Alcohol,"Sites about alcohol use, commercial and otherwise.","school,netgear",1,y,n,n,n,70,5,y,1200348290,1209579995,1
+114,Allow List,,,72,y,n,y,n,1,1,n,1413240529,1413240529,4
+76,Anime/Manga/Webcomic,"Sites that host online comics, cartoons and graphic novels.",,57,y,n,n,n,70,5,y,,,1
+3,Auctions,Sites for buying and selling via auction.,,2,y,n,n,n,70,5,y,1200348296,1205361534,1
+70,Automotive,"Sites about automobiles, including manufacturers, news, reviews and hobbyist information.",,48,y,n,n,n,70,5,y,,1205967992,1
+90,Basic Botnet,,,64,y,n,y,n,1,1,n,1379025003,1379025003,2
+94,Basic Malware,,,66,y,n,y,n,1,1,n,1379025003,1379025003,2
+112,Block List,,,71,y,n,y,n,1,1,n,1413240529,1413240529,4
+4,Blogs,"Sites that are personal or group journals, diaries or publications.",,3,y,n,n,n,70,5,y,1200348302,1205361546,1
+119,BP,"Domains sent to Umbrella via BP Event notifications, based on the notification settings enabled within the BP dashboard.",,81,y,n,y,n,1,1,y,1418689429,1418689429,2
+56,Business Services,"Sites for corporations and businesses of all sizes, especially company websites.",,32,y,n,n,n,70,5,y,,1205361559,1
+5,Chat,Sites where you can chat in real-time with groups of people. Includes IRC and video chat sites.,netgear,4,y,n,n,n,70,5,n,1200348306,1209580018,1
+104,Check Point,"Domains sent to Umbrella via Check Point Event notifications, based on the notification settings enabled within the Check Point dashboard.",,76,y,n,y,n,1,1,y,1409856613,1409856613,2
+147,Cisco AMP Threat Grid,Malicious domains retrieved from the Cisco AMP Threat Grid API for your organization-specific and global data sets.,,96,y,n,y,n,1,1,y,1428353841,1428353841,2
+6,Classifieds,Sites for buying and selling (or bartering) goods and services. Includes sites with real estate and housing listings.,,5,y,n,n,n,70,5,y,1200348313,1205361583,1
+108,CounterTack,"Domains sent to Umbrella via CounterTack Event notifications, based on the notification settings enabled within the CounterTack dashboard.",,78,y,n,y,n,1,1,y,1409856613,1409856613,2
+137,Custom Integration 1,,,91,y,n,y,n,1,1,y,1428353841,1428353841,2
+135,Custom Integration 10,,,90,y,n,y,n,1,1,y,1428353841,1428353841,2
+139,Custom Integration 2,,,92,y,n,y,n,1,1,y,1428353841,1428353841,2
+141,Custom Integration 3,,,93,y,n,y,n,1,1,y,1428353841,1428353841,2
+143,Custom Integration 4,,,94,y,n,y,n,1,1,y,1428353841,1428353841,2
+145,Custom Integration 5,,,95,y,n,y,n,1,1,y,1428353841,1428353841,2
+127,Custom Integration 6,,,86,y,n,y,n,1,1,y,1428353841,1428353841,2
+129,Custom Integration 7,,,87,y,n,y,n,1,1,y,1428353841,1428353841,2
+131,Custom Integration 8,,,88,y,n,y,n,1,1,y,1428353841,1428353841,2
+133,Custom Integration 9,,,89,y,n,y,n,1,1,y,1428353841,1428353841,2
+106,Cyphort,"Domains sent to Umbrella via Cyphort Event notifications, based on the notification settings enabled within the Cyphort dashboard.",,77,y,n,y,n,1,1,y,1409856613,1409856613,2
+7,Dating,Sites for meeting other people.,netgear,6,y,n,n,n,70,5,y,1200348319,1209579949,1
+176,DNS Tunneling VPN,VPN services that allow users to disguise their traffic by tunneling it through the DNS protocol. These can be used to bypass corporate policies regarding access and data transfer.,,110,y,n,y,n,1,1,n,1465419245,1465419245,2
+83,Drive-by Downloads/Exploits,Websites and files that are designed to run code without user intervention.,,60,y,n,y,n,1,1,y,1369346794,1369346794,2
+8,Drugs,Sites about illegal or recreational drug use.,"school,netgear",7,y,n,n,n,70,5,y,1200348321,1209580010,1
+85,Dynamic DNS,Sites that are hosting dynamic DNS services. This technology can be used by attackers as an evasion technique against IP blacklisting.,,61,y,n,y,n,1,1,y,1369346794,1369346794,2
+9,Ecommerce/Shopping,Sites that are online stores for products and services.,,8,y,n,n,n,70,5,y,1200348338,1205361716,1
+52,Educational Institutions,"Sites for schools, covering all age levels and types.",,33,y,n,n,n,70,5,y,,1205361720,1
+92,Enterprise Botnet,,,65,y,n,y,n,1,1,n,1379025003,1379025003,2
+96,Enterprise Malware,,,67,y,n,y,n,1,1,n,1379025003,1379025003,2
+10,File Storage,"Sites that offer space for hosting, sharing and backup of digital files.",bandwidth,9,y,n,n,n,70,5,y,1200348346,1205361728,1
+55,Financial Institutions,"Sites for banks, brokerages, trusts and other financial organizations.",,34,y,n,n,n,70,5,y,,1205361762,1
+102,FireEye,"Domains sent to Umbrella via FireEye Event notifications, based on the notification settings enabled within the FireEye dashboard.",,70,y,n,y,n,1,1,y,1384561125,1384561125,2
+67,Forums/Message boards,"Sites with discussions, including bulletin boards, message boards and forums.",,49,y,n,n,n,70,5,y,,1206027758,1
+11,Gambling,Sites that offer gambling or information about gambling.,"school,netgear",10,y,n,n,n,70,5,y,1200348353,1209579940,1
+12,Games,"Sites that offer game play and information about games (news, tips, cheat codes).","bandwidth,school,netgear",11,y,n,n,n,70,5,y,1200348358,1209579987,1
+74,German Youth Protection,"This category helps prevent viewing of youth-endangering content in Germany. Block pages for this category will include German text. You can override individual sites in the category to allow access, but you may then be providing access to content that is illegal pursuant to Section 4 Jugendmedienschutz-Staatsvertrag (JMStV). We do not guarantee compliance with German law.",,56,y,y,y,y,70,20,y,1291406487,1291939934,1
+116,Global Whitelist,,,73,y,n,y,n,1,1,n,1413240530,1413240530,3
+49,Government,"Sites operated by government agencies, including city, state, regional, county and federal levels.  Also includes .mil domains.",,35,y,n,n,n,70,5,y,,1205361794,1
+13,Hate/Discrimination,"Sites that promote intolerance based on gender, age, race, nationality, religion, sexual orientation or other group identities.","school,netgear",12,y,n,n,n,70,5,y,1200348367,1209579958,1
+14,Health and Fitness,Sites that offer information about health care and health services. Includes fitness related sites and information about health and fitness.,,13,y,n,n,n,70,5,y,1200348372,1205361805,1
+89,High Risk Sites and Locations,Domains and hostnames that are matching against our predictive security algorithms from Cisco Umbrella Threat Intelligence.,,63,y,n,y,n,1,1,y,1369346794,1369346794,2
+15,Humor,Sites that are intended to be funny or humorous.,,14,y,n,n,n,70,5,y,1200348377,1205361903,1
+16,Instant Messaging,Sites that offer access or software to communicate in real-time with other individuals.,netgear,15,y,n,n,n,70,5,n,1200348384,1209580026,1
+126,Internet Watch Foundation,"An organization dedicated to minimize the availability of potentially criminal Internet content, specifically images of child sexual abuse hosted anywhere, and criminally obscene adult content in the UK.",,85,y,n,y,y,1,1,y,,,1
+17,Jobs/Employment,"Sites that offer job listings, resume services, interview coaching and similar employment-related services.",,16,y,n,n,n,70,5,y,1200348396,1205361921,1
+60,Lingerie/Bikini,Sites displaying or dedicated to lingerie/bikini that could be considered adult-only.,adult,41,y,n,n,n,60,3,y,1204910084,1204910084,1
+87,Mobile Threats,Threats that are designed to infect or adversely affect mobile devices such as phones and tablets.,,62,y,n,y,n,1,1,y,1369346794,1369346794,2
+19,Movies,Sites that promote movies or offer movie watching online.,bandwidth,17,y,n,n,n,70,5,y,1200348408,1205361925,1
+50,Music,"Sites about music, including news, band and fan information.",,36,y,n,n,n,70,5,y,,1205361933,1
+172,Newly Seen Domains,Domains that have become active very recently. These are often used in new attacks.,,108,y,n,y,n,1,1,n,1465419245,1465419245,2
+33,News/Media,"Sites that offer news and information, including newspapers, broadcasters and other publishers.",,18,y,n,n,n,70,5,y,,1205361938,1
+69,Non-Profits,Sites for non-profit or charity organizations and services.,,50,y,n,n,n,70,5,y,,1205968085,1
+63,Nudity,Sites that provide images or representations of nudity.,adult,42,y,n,n,n,60,3,y,1204910084,1204910084,1
+20,P2P/File sharing,"Sites that facilitate the sharing of digital files between individuals, especially via peer-to-peer software, including torrent sites.","bandwidth,school,netgear",19,y,n,n,n,70,5,n,1200348418,1209580035,1
+57,Parked Domains,"Sites that are placeholders ""parked"" for future use. Current uses may include single-page advertising sites.",,37,y,n,n,n,90,5,y,,1211413044,1
+155,Partner Integration 10,,,100,y,n,y,n,1,1,y,1428353841,1428353841,2
+157,Partner Integration 11,,,101,y,n,y,n,1,1,y,1428353841,1428353841,2
+159,Partner Integration 12,,,102,y,n,y,n,1,1,y,1428353841,1428353841,2
+161,Partner Integration 13,,,103,y,n,y,n,1,1,y,1428353841,1428353841,2
+163,Partner Integration 14,,,104,y,n,y,n,1,1,y,1428353841,1428353841,2
+165,Partner Integration 15,,,105,y,n,y,n,1,1,y,1428353841,1428353841,2
+149,Partner Integration 7,,,97,y,n,y,n,1,1,y,1428353841,1428353841,2
+151,Partner Integration 8,,,98,y,n,y,n,1,1,y,1428353841,1428353841,2
+153,Partner Integration 9,,,99,y,n,y,n,1,1,y,1428353841,1428353841,2
+98,Phishing,,,68,y,n,y,n,1,1,n,1379025003,1379025003,2
+48,Photo Sharing,"Sites for sharing photographs, as individual images, galleries and albums.",,20,y,n,n,n,70,5,y,,1205361957,1
+71,Podcasts,"Sites that offer podcasts, digital media files distributed over the Internet, often using syndication feeds, for playback on portable media players and personal computers. Both audio and video podcasts are included.",,51,y,n,n,n,70,5,y,,1205968196,1
+66,Politics,"Sites about politics, politicians, political parties and organizations. Government sites are separate.",,52,y,n,n,n,70,5,y,,1205968118,1
+64,Pornography,"Anything relating to pornography, including mild depiction, soft pornography or hard-core pornography.",adult,44,y,n,n,n,60,3,y,1204910084,1204910084,1
+21,Portals,"Sites that offer gateways to the Internet as a whole, often including bundled services on their own site.",,21,y,n,n,n,70,5,y,1200348425,1205361962,1
+174,Potentially Harmful,Domains that exhibit suspicious behavior and may be part of an attack.,,109,y,n,y,n,1,1,n,1465419245,1465419245,2
+61,Proxy/Anonymizer,"Sites providing proxy bypass information or services. Also, sites that allow the user to surf the net anonymously, including sites that allow the user to send anonymous emails.",adult,43,y,n,n,n,60,3,n,1204910084,1204910084,1
+22,Radio,Sites that offer online radio listening or promote radio stations.,,22,y,n,n,n,70,5,y,1200348430,1205361970,1
+65,Religious,"Sites about religion, religious teachings and groups, and spirituality.",,53,y,n,n,n,70,5,y,,1205968865,1
+54,Research/Reference,"Sites such as encyclopedias, dictionaries as well as other research-related resources.",,54,y,n,n,n,70,5,y,,1205361974,1
+23,Search Engines,Sites that offer result listings based on keywords.,,23,y,n,n,n,70,5,y,1200348435,1205361979,1
+62,Sexuality,"Sites that provide information, images or implications of bondage, sadism, masochism, fetish, beating, body piercing or self-mutilation. This category is not intended for LGBT related sites that do not fall under the aforementioned criteria.",adult,45,y,n,n,n,60,3,y,1204910084,1204910084,1
+178,Sinkhole,Sinkhole,,74,y,n,y,y,20,20,n,1471020442,1471020442,3
+24,Social Networking,Sites that promote interaction and networking between people.,netgear,24,y,n,n,n,70,5,y,1200348442,1209579929,1
+47,Software/Technology,"Sites about computing, cloud computing, hardware and technology, including news, information, code and vendor information.",,25,y,n,n,n,70,5,y,,1205362111,1
+51,Sports,"Sites about sports of all kinds, from professional to amateur, from news to league information and schedules. Includes Martial Arts and MMA related sites.",,39,y,n,n,n,70,5,y,,1205362117,1
+100,Suspicious Response,,,69,y,n,y,n,1,1,n,1379025003,1379025003,2
+59,Tasteless,"Sites that contain information on such subjects as mutilation, torture, horror, or the grotesque. Includes Pro-Anorexia and Pro-Suicide related sites.",adult,46,y,n,n,n,60,3,y,1204910084,1204910084,1
+34,Television,Sites that promote television shows or offer television watching online.,,26,y,n,n,n,70,5,y,,1205362128,1
+125,ThreatConnect,"Domains sent to Umbrella via ThreatConnect Event notifications, based on the notification settings enabled within the ThreatConnect dashboard.",,84,y,n,y,n,1,1,y,1418689429,1418689429,2
+121,ThreatQ,"Domains sent to Umbrella via ThreatQ Event notifications, based on the notification settings enabled within the ThreatQ dashboard.",,82,y,n,y,n,1,1,y,1418689429,1418689429,2
+73,Tobacco,"Sites about tobacco use and related products, commercial and otherwise.",,38,y,n,n,n,70,5,y,,,1
+68,Travel,"Sites with travel information and services, including reservations for airlines, cars, hotels, vacations, and trips.",,55,y,n,n,n,70,5,y,,1205968150,1
+169,Unauthorized IP Tunnel Access,"Traffic to unauthorized IP addresses is blocked automatically. Unauthorized IPs are unexpected addresses which are not flagged by the Cisco Umbrella IP Layer Enforcement solution.  This traffic can originate from routes being set on the client side by a user or a process and may indicate malicious activity interfering with the device's routing table, or a user trying to bypass the organization's security infrastructure to gain access to the Internet.",,106,y,n,y,n,1,1,n,1460748771,1460748771,2
+170,URL Shortener,An online application or service that converts a regular URL into a condensed format.,NULL,107,y,n,n,n,70,5,y,1464892754,1464892754,1
+26,Video Sharing,Sites for sharing video content.,"bandwidth,netgear",28,y,n,n,n,70,5,y,1200348451,1209579965,1
+27,Visual Search Engines,Sites for searching for images based on keywords.,,29,y,n,n,n,70,5,y,1200348458,1205362159,1
+28,Weapons,"Sites about weapons, commercial and otherwise.","school,netgear",30,y,n,n,n,70,5,y,1200348468,1209580003,1
+77,Web Spam,"Redirect targets containing unwanted Sweepstakes/Survey/Advertisements for free merchandise, pharmaceutical spam or Rolex distributions. ",,58,y,n,n,n,70,5,y,,,1
+29,Webmail,Sites that offer the ability to send or receive email.,,31,y,n,n,n,70,5,y,1200348473,1205362169,1
+117,XTO,"Domains sent to Umbrella via XTO Event notifications, based on the notification settings enabled within the XTO dashboard.",,80,y,n,y,n,1,1,y,1418689429,1418689429,2
+123,Y,"Domains sent to Umbrella via Y Event notifications, based on the notification settings enabled within the Y dashboard.",,83,y,n,y,n,1,1,y,1418689429,1418689429,2
+110,ZeroFox,"Domains sent to Umbrella via ZeroFox Event notifications, based on the notification settings enabled within the ZeroFox dashboard.",,79,y,n,y,n,1,1,y,1409856615,1409856615,2
