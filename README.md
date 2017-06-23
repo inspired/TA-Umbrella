@@ -88,7 +88,7 @@ Version 1.0 of the Umbrella Add-on for Splunk Enterprise incorporates the follow
 
 **Best effort support is available via Splunk Answers**
 
-* Access questions and answers specific to the Umbrella Add-on for Splunk Enterprise at http://answers.splunk.com/app/questions/XXX.html
+* Access questions and answers specific to the Umbrella Add-on for Splunk Enterprise at http://answers.splunk.com/app/questions/3629.html
 
 ## INSTALLATION AND CONFIGURATION
 
@@ -124,7 +124,7 @@ Because this add-on runs on Splunk Enterprise, all of the [Splunk Enterprise sys
 
 #### Download
 
-Download the Umbrella Add-on for Splunk Enterprise at https://apps.splunk.com/app/XXX/.
+Download the Umbrella Add-on for Splunk Enterprise at https://apps.splunk.com/app/3629/.
 
 #### Installation steps
 
