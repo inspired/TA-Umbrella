@@ -160,8 +160,8 @@ Install this app on a Heavy Forwarder used as a data collection node
 
 1. Install the Umbrella Add-on for Splunk Enterprise in $SPLUNK_HOME/etc/apps/TA-Umbrella
 2. Install the Splunk Add-on for AWS S3 from Splunkbase
-3. Follow this guide: https://support.umbrella.com/hc/en-us/articles/230650987-Configuring-Splunk-for-use-with-Cisco-Umbrella-Log-Management-in-AWS-S3
-4. During Stage 2, make sure you set the sourcetype for your S3 input to opendns:dnslog
+3. Follow this guide to set up inputs for your AWS S3 bucket: https://support.umbrella.com/hc/en-us/articles/230650987-Configuring-Splunk-for-use-with-Cisco-Umbrella-Log-Management-in-AWS-S3
+3.1. During Stage 2 of Step 3, make sure you set the sourcetype for your S3 input to opendns:dnslog
 
 ##### Deploy to distributed deployment with Search Head Pooling
 Follow the same steps as *Install to search head*.
@@ -175,8 +175,8 @@ The following procedure should be followed on your Data Collection Node which ma
 
 1. Install the Umbrella Add-on for Splunk Enterprise in $SPLUNK_HOME/etc/apps/TA-Umbrella
 2. Install the Splunk Add-on for AWS S3 from Splunkbase
-3. Follow this guide: https://support.umbrella.com/hc/en-us/articles/230650987-Configuring-Splunk-for-use-with-Cisco-Umbrella-Log-Management-in-AWS-S3
-4. During Stage 2, make sure you set the sourcetype for your S3 input to opendns:dnslog
+3. Follow this guide to set up inputs for your AWS S3 bucket: https://support.umbrella.com/hc/en-us/articles/230650987-Configuring-Splunk-for-use-with-Cisco-Umbrella-Log-Management-in-AWS-S3
+3.1. During Stage 2 of Step 3, make sure you set the sourcetype for your S3 input to opendns:dnslog
 
 If you have a standalone Heavy Forwarder, follow all steps. On your search head you should only do step 1.
 
