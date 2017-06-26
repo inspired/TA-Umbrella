@@ -169,7 +169,7 @@ Follow the same steps as *Install to search head*.
 Follow the same steps as *Install to search head*.
 ##### Deploy to Splunk Cloud
 Unknown
-#### Configure Umbrella Add-on for Splunk Enterprise
+##### Configure Umbrella Add-on for Splunk Enterprise
 
 The following procedure should be followed on your Data Collection Node which may be a Heavy Forwarder or in the case of a single instance Splunk-deployment, your Splunk server:
 
